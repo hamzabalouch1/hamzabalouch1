@@ -67,4 +67,4 @@ I specialize in designing automation frameworks from scratch, leading QA teams, 
 Remote QA Engineer / Test Automation Engineer roles — open to worldwide remote opportunities.
 
 **Email:** hamzabalouch1@gmail.com
-**LinkedIn:** [linkedin.com/in/hamza-maqsood](https://www.linkedin.com/in/hamza-balouch)
+**LinkedIn:** [linkedin.com/in/hamza-balouch](https://www.linkedin.com/in/hamza-balouch/)

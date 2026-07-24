@@ -12,7 +12,7 @@
 
 ---
 
-4+ years building quality into healthcare, e-commerce, and automotive SaaS products. I design automation frameworks from the ground up, lead QA teams, integrate testing into CI/CD pipelines, and apply AI-assisted techniques to accelerate test creation and defect detection.
+5+ years building quality into healthcare, e-commerce, and automotive SaaS products. I design automation frameworks from the ground up, lead QA teams, integrate testing into CI/CD pipelines, and apply AI-assisted techniques to accelerate test creation and defect detection.
 
 **Key Metrics:**
 - Reduced post-release defects by **20%** through structured regression and risk-based testing
